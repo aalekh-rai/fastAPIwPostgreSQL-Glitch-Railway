@@ -1,4 +1,5 @@
-This is a prototype application deployed using Glitch and Railway. Database is stored in a PostgreSQL instance on Railway App and program files are stored on Glich.
+This is a prototype application deployed using Glitch and Railway. 
+Database is stored in a PostgreSQL instance on Railway App and program files are stored on Glich.
 
 #Setup your database on Railway
 
@@ -18,7 +19,8 @@ Step 6: Upload all these 6 files from github to glitch, 'procfile', 'database.py
 
 Step 7: Go to .env file, create two variables, 'PYTHON_VERSION', assign it's value as 3.7 and another 'DATABASE_URL', copy paste the database url value from the 'railway app/variables' tab.
 
-Step 8: Run your Glitch project, it should successfully be connected with your railway database instance. If you encounter any errors,try to solve them with the help of glitch logs. Check out some sample projects on Glitch with Python here: 'https://glitch.com/@python'.
+Step 8: Run your Glitch project, it should successfully be connected with your railway database instance. 
+If you encounter any errors,try to solve them with the help of glitch logs. Check out some sample projects on Glitch with Python here: 'https://glitch.com/@python'.
 
 #Run your application
 
