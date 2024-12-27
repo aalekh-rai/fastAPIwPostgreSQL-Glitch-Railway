@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+#psycopg2
+psycopg2-binary==2.9.9  # if you are using PostgreSQL
